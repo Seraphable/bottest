@@ -1,1 +1,1 @@
-print("ahafhfgbruigrw")
+print("===================== KITSU TECH TESTING CODE =========================")
