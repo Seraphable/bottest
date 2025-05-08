@@ -1,1 +1,2 @@
-print("===================== KITSU TECH TESTING CODE =========================")
+while True:
+  print("===================== KITSU TECH TESTING CODE =========================")
